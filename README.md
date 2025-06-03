@@ -6,6 +6,7 @@
 
 ### Languages
 
+<div align="left">
 <img src="assets/c.svg" width="50" alt="logo" />
 <img src="assets/java.svg" width="50" alt="logo" />
 <img src="assets/python.svg" width="50" alt="logo" />
@@ -13,38 +14,49 @@
 <img src="assets/nodejs.svg" width="50" alt="logo" />
 <img src="assets/js.svg" width="50" alt="logo" />
 <img src="assets/ts.svg" width="50" alt="logo" />
+</div>
 
 ### Languages
 
+<div align="left">
 <img src="assets/react.svg" width="50" alt="logo" />
 <img src="assets/nextjs.svg" width="50" alt="logo" />
 <img src="assets/angular.svg" width="50" alt="logo" />
 <img src="assets/expo.svg" width="50" alt="logo" />
 <img src="assets/flutter.svg" width="50" alt="logo" />
+</div>
 
+<div align="left">
 <img src="assets/express.svg" width="50" alt="logo" />
 <img src="assets/django.svg" width="50" alt="logo" />
 <img src="assets/fast_api.svg" width="50" alt="logo" />
+</div>
 
 ### Databases
 
+<div align="left">
 <img src="assets/mongodb.svg" width="50" alt="logo" />
 <img src="assets/mysql.svg" width="50" alt="logo" />
 <img src="assets/postgresql.svg" width="50" alt="logo" />
+</div>
 
 ### services
 
+<div align="left">
 <img src="assets/firebase.svg" width="50" alt="logo" />
 <img src="assets/supabase.svg" width="50" alt="logo" />
 <img src="assets/appwrite.svg" width="50" alt="logo" />
+</div>
 
 ### tools
 
+<div align="left">
 <img src="assets/git.svg" width="50" alt="logo" />
 <img src="assets/github.svg" width="50" alt="logo" />
 <img src="assets/intellij_idea.svg" width="50" alt="logo" />
 <img src="assets/vscode.svg" width="50" alt="logo" />
 <img src="assets/android_studio.svg" width="50" alt="logo" />
+</div>
 
 ## 📊 GitHub Stats:
 
