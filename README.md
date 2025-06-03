@@ -1,14 +1,58 @@
 ## 💫 About Me:
+
 👋 Hi, I'm Subhendu Kumar—passionate about full-stack development and the fusion of tech & creativity. I love building end-to-end solutions and collaborating on innovative projects. Let’s create something awesome! 🚀
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Languages
+
+<img src="assets/c.svg" width="50" alt="logo" />
+<img src="assets/java.svg" width="50" alt="logo" />
+<img src="assets/python.svg" width="50" alt="logo" />
+<img src="assets/dart.svg" width="50" alt="logo" />
+<img src="assets/nodejs.svg" width="50" alt="logo" />
+<img src="assets/js.svg" width="50" alt="logo" />
+<img src="assets/ts.svg" width="50" alt="logo" />
+
+### Languages
+
+<img src="assets/react.svg" width="50" alt="logo" />
+<img src="assets/nextjs.svg" width="50" alt="logo" />
+<img src="assets/angular.svg" width="50" alt="logo" />
+<img src="assets/expo.svg" width="50" alt="logo" />
+<img src="assets/flutter.svg" width="50" alt="logo" />
+
+<img src="assets/express.svg" width="50" alt="logo" />
+<img src="assets/django.svg" width="50" alt="logo" />
+<img src="assets/fast_api.svg" width="50" alt="logo" />
+
+### Databases
+
+<img src="assets/mongodb.svg" width="50" alt="logo" />
+<img src="assets/mysql.svg" width="50" alt="logo" />
+<img src="assets/postgresql.svg" width="50" alt="logo" />
+
+### services
+
+<img src="assets/firebase.svg" width="50" alt="logo" />
+<img src="assets/supabase.svg" width="50" alt="logo" />
+<img src="assets/appwrite.svg" width="50" alt="logo" />
+
+### tools
+
+<img src="assets/git.svg" width="50" alt="logo" />
+<img src="assets/github.svg" width="50" alt="logo" />
+<img src="assets/intellij_idea.svg" width="50" alt="logo" />
+<img src="assets/vscode.svg" width="50" alt="logo" />
+<img src="assets/android_studio.svg" width="50" alt="logo" />
 
 ## 📊 GitHub Stats:
+
 ![Subhendu-Kumar's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Subhendu-Kumar&theme=default&hide_border=false)&nbsp;
 ![Subhendu-Kumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhendu-Kumar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+![random quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
