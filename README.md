@@ -16,7 +16,7 @@
 <img src="assets/ts.svg" width="50" alt="logo" />
 </div>
 
-### Languages
+### Frameworks
 
 <div align="left">
 <img src="assets/react.svg" width="50" alt="logo" />
