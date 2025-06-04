@@ -60,8 +60,8 @@
 
 ## 📊 GitHub Stats:
 
-![Subhendu-Kumar's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Subhendu-Kumar&theme=default&hide_border=false)&nbsp;
-![Subhendu-Kumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhendu-Kumar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=Subhendu-Kumar&theme=default&hide_border=false)&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhendu-Kumar&theme=defalut&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
