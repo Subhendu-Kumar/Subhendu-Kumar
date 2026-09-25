@@ -17,10 +17,10 @@ Hello, I'm Subhendu Kumar, a Full-Stack Developer and GenAI Engineer with expert
 
 ## GitHub Analytics
 
-![Stats](https://github-stats-subh.vercel.app/api/Subhendu-Kumar/stats)
-</br>
-</br>
 ![Languages](https://github-stats-subh.vercel.app/api/Subhendu-Kumar/lang?theme=light)
+</br>
+</br>
+![Stats](https://github-stats-subh.vercel.app/api/Subhendu-Kumar/stats)
 
 ---
 
